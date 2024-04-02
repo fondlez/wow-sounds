@@ -16,11 +16,11 @@ Note. these sound locations may contain many if not all sounds from WoW clients 
 ## Example
 You find the Priest class's spell ability "Inner Focus" irritating. The primary sound that is looped for this spell can be found by searching for "Sounds" under [Inner Fire on Wowhead](https://www.wowhead.com/wotlk/spell=14751/inner-focus#sounds). It is called "PreCastMageLow". Now confirm that "PreCastMageLow" is indeed in one of the sound files in this repository - "wow-sounds-wotlk-3.3.5a-Spells.csv" being an obvious choice to check first, by typing it in the file's searchbox. And there you have it,
 
-*Sound\Spells\PreCastHolyMagicLow.wav*
+*Sound\Spells\PreCastMageLow.wav*
 
- **Muting:** simply create a new empty file under your WoW\Data folder, e.g. `World of Warcraft 3.3.5a\Data\Sound\Spells\PreCastHolyMagicLow.wav`.
+ **Muting:** simply create a new empty file under your WoW\Data folder, e.g. `World of Warcraft 3.3.5a\Data\Sound\Spells\PreCastMageLow.wav`.
  
- **Un-muting:** just delete this empty file, e.g. delete `World of Warcraft 3.3.5a\Data\Sound\Spells\PreCastHolyMagicLow.wav`.
+ **Un-muting:** just delete this empty file, e.g. delete `World of Warcraft 3.3.5a\Data\Sound\Spells\PreCastMageLow.wav`.
 
 ## Bonus: difficult to find sounds
 Some sound names can be tricky to find, e.g. they are not directly associated with a spell in a WoW database. I will list them here - with credit - and you are welcome to provide others to benefit the WoW community:
