@@ -3,6 +3,8 @@
 
 This repository currently supports the World of Warcraft: The Lich King (WotLK) 3.3.5a client. It contains a listing of all sounds in the client, which are represented as paths under the WoW `Data` folder. 
 
+The file `wow-sounds-wotlk-3.3.5a.csv` contains the full list of all sounds, however you may find it easier to search the other files which have been broadly split up into smaller files based on WoW's sound categories.
+
 Note. these sound locations may contain many if not all sounds from WoW clients prior to 3.3.5a too.
 
 ## How It Works
