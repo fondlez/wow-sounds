@@ -19,6 +19,7 @@ You find the Priest class's spell ability "Inner Focus" irritating. The primary 
 *Sound\Spells\PreCastHolyMagicLow.wav*
 
  **Muting:** simply create a new empty file under your WoW\Data folder, e.g. `World of Warcraft 3.3.5a\Data\Sound\Spells\PreCastHolyMagicLow.wav`.
+ 
  **Un-muting:** just delete this empty file, e.g. delete `World of Warcraft 3.3.5a\Data\Sound\Spells\PreCastHolyMagicLow.wav`.
 
 ## Bonus: difficult to find sounds
