@@ -26,4 +26,4 @@ You find the Priest class's spell ability "Inner Focus" irritating. The primary 
 Some sound names can be tricky to find, e.g. they are not directly associated with a spell in a WoW database. I will list them here - with credit - and you are welcome to provide others to benefit the WoW community:
 
 ### Spell ###
-* Priest Prayer of Mending [credit: fondlez]: *Sound\Spells\prayerofmending_impact_head.wav*
+* Priest - Prayer of Mending [credit: fondlez]: *Sound\Spells\prayerofmending_impact_head.wav*
