@@ -32,12 +32,12 @@ Some sound names can be tricky to find, e.g. they are not directly associated wi
 
 ### Spell ###
 * Ability global cooldown fizzles:
-    * *Sound\Spells\Fizzle\FizzleFireA.wav*
-    * *Sound\Spells\Fizzle\FizzleFrostA.wav*
-    * *Sound\Spells\Fizzle\FizzleHolyA.wav*
-    * *Sound\Spells\Fizzle\FizzleNatureA.wav*
-    * *Sound\Spells\Fizzle\FizzleShadowA.wav*
-    * *Sound\Interface\uEscapeScreenOpen.wav*
-    * *Sound\Interface\uChatScrollButton.wav*
-* Priest - Prayer of Mending: *Sound\Spells\prayerofmending_impact_head.wav*
+    * `/script PlaySoundFile([[Sound\Spells\Fizzle\FizzleFireA.wav]])`
+    * `/script PlaySoundFile([[Sound\Spells\Fizzle\FizzleFrostA.wav]])`
+    * `/script PlaySoundFile([[Sound\Spells\Fizzle\FizzleHolyA.wav]])`
+    * `/script PlaySoundFile([[Sound\Spells\Fizzle\FizzleNatureA.wav]])`
+    * `/script PlaySoundFile([[Sound\Spells\Fizzle\FizzleShadowA.wav]])`
+    * `/script PlaySoundFile([[Sound\Interface\uEscapeScreenOpen.wav]])`
+    * `/script PlaySoundFile([[Sound\Interface\uChatScrollButton.wav]])`
+* Priest - Prayer of Mending: `/script PlaySoundFile([[Sound\Spells\prayerofmending_impact_head.wav]])`
 
