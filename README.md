@@ -38,6 +38,6 @@ Some sound names can be tricky to find, e.g. they are not directly associated wi
     * *Sound\Spells\Fizzle\FizzleNatureA.wav*
     * *Sound\Spells\Fizzle\FizzleShadowA.wav*
     * *Sound\Interface\uEscapeScreenOpen.wav*
-    * *Sound\Interface\uChatScrollButton.wav*.
-* Priest - Prayer of Mending: *Sound\Spells\prayerofmending_impact_head.wav*.
+    * *Sound\Interface\uChatScrollButton.wav*
+* Priest - Prayer of Mending: *Sound\Spells\prayerofmending_impact_head.wav*
 
