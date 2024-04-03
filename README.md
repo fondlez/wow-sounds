@@ -31,7 +31,7 @@ You find the Priest class's spell ability "Inner Focus" irritating. The primary 
 Some sound names can be tricky to find, e.g. they are not directly associated with a spell or NPC in a WoW database. I will list them here - with credit - and you are welcome to provide others to benefit the WoW community:
 
 ### Spell ###
-* Ability global cooldown fizzles [credit]:
+* Ability global cooldown fizzles [credit: fondlez]:
     * *Sound\Spells\Fizzle\FizzleFireA.wav*
     * *Sound\Spells\Fizzle\FizzleFrostA.wav*
     * *Sound\Spells\Fizzle\FizzleHolyA.wav*
