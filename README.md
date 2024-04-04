@@ -30,7 +30,6 @@ You find the Priest class's spell ability "Inner Focus" irritating. The primary 
 ## Tricky Sounds
 Some sound names can be tricky to find, e.g. they are not directly associated with a spell or NPC in a WoW database. I will list them here - with credit - and you are welcome to provide others to benefit the WoW community:
 
-### Spell ###
 * Ability global cooldown fizzles:
     * `/script PlaySoundFile([[Sound\Spells\Fizzle\FizzleFireA.wav]])`
     * `/script PlaySoundFile([[Sound\Spells\Fizzle\FizzleFrostA.wav]])`
@@ -43,4 +42,5 @@ Some sound names can be tricky to find, e.g. they are not directly associated wi
     * `/script PlaySoundFile([[Sound\Creature\GnomeSpiderTank\GnomeSpiderTankWoundD.wav]])`
     * `/script PlaySoundFile([[Sound\Creature\GnomeSpiderTank\GnomeSpiderTankWoundE.wav]])`
     * `/script PlaySoundFile([[Sound\Creature\GnomeSpiderTank\GnomeSpiderTankWoundF.wav]])`
-* Priest - Prayer of Mending bounce: `/script PlaySoundFile([[Sound\Spells\prayerofmending_impact_head.wav]])`
+* Priest - Prayer of Mending bounce: 
+    * `/script PlaySoundFile([[Sound\Spells\prayerofmending_impact_head.wav]])`
