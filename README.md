@@ -27,7 +27,7 @@ You find the Priest class's spell ability "Inner Focus" irritating. The primary 
  
  **Un-muting:** just delete this empty file, e.g. delete `World of Warcraft 3.3.5a\Data\Sound\Spells\PreCastMageLow.wav`.
 
-## Bonus: difficult to find sounds
+## Tricky Sounds
 Some sound names can be tricky to find, e.g. they are not directly associated with a spell or NPC in a WoW database. I will list them here - with credit - and you are welcome to provide others to benefit the WoW community:
 
 ### Spell ###
@@ -38,6 +38,9 @@ Some sound names can be tricky to find, e.g. they are not directly associated wi
     * `/script PlaySoundFile([[Sound\Spells\Fizzle\FizzleNatureA.wav]])`
     * `/script PlaySoundFile([[Sound\Spells\Fizzle\FizzleShadowA.wav]])`
     * `/script PlaySoundFile([[Sound\Interface\uEscapeScreenOpen.wav]])`
-    * `/script PlaySoundFile([[Sound\Interface\uChatScrollButton.wav]])`
-* Priest - Prayer of Mending: `/script PlaySoundFile([[Sound\Spells\prayerofmending_impact_head.wav]])`
-
+* Gnome Mechanostrider mount noises:
+    * `/script PlaySoundFile([[Sound\Creature\MechaStrider\MechaStriderLoop.wav]])`
+    * `/script PlaySoundFile([[Sound\Creature\GnomeSpiderTank\GnomeSpiderTankWoundD.wav]])`
+    * `/script PlaySoundFile([[Sound\Creature\GnomeSpiderTank\GnomeSpiderTankWoundE.wav]])`
+    * `/script PlaySoundFile([[Sound\Creature\GnomeSpiderTank\GnomeSpiderTankWoundEF.wav]])`
+* Priest - Prayer of Mending bounce: `/script PlaySoundFile([[Sound\Spells\prayerofmending_impact_head.wav]])`
