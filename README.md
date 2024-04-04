@@ -42,5 +42,5 @@ Some sound names can be tricky to find, e.g. they are not directly associated wi
     * `/script PlaySoundFile([[Sound\Creature\MechaStrider\MechaStriderLoop.wav]])`
     * `/script PlaySoundFile([[Sound\Creature\GnomeSpiderTank\GnomeSpiderTankWoundD.wav]])`
     * `/script PlaySoundFile([[Sound\Creature\GnomeSpiderTank\GnomeSpiderTankWoundE.wav]])`
-    * `/script PlaySoundFile([[Sound\Creature\GnomeSpiderTank\GnomeSpiderTankWoundEF.wav]])`
+    * `/script PlaySoundFile([[Sound\Creature\GnomeSpiderTank\GnomeSpiderTankWoundF.wav]])`
 * Priest - Prayer of Mending bounce: `/script PlaySoundFile([[Sound\Spells\prayerofmending_impact_head.wav]])`
