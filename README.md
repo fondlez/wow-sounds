@@ -44,3 +44,7 @@ Some sound names can be tricky to find, e.g. they are not directly associated wi
     * `/script PlaySoundFile([[Sound\Creature\GnomeSpiderTank\GnomeSpiderTankWoundF.wav]])`
 * Priest - Prayer of Mending bounce: 
     * `/script PlaySoundFile([[Sound\Spells\prayerofmending_impact_head.wav]])`
+
+## Mute Packs 
+
+I have created some convenient packs for muting specific sounds under [Releases](https://github.com/fondlez/wow-sounds/releases/latest). Just unzip them into your WoW Data folder and the zero-length files inside will mute the sounds.
