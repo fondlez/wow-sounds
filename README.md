@@ -19,7 +19,7 @@ You can play any of the sounds by putting the path inside a script with the `Pla
 For convenience, I have modified the sound paths into scripts for all the sound category files. If you want just the sound path itself, simply copy the path inside the `[[]]` brackets or download and copy from the full list in `wow-sounds-wotlk-3.3.5a.csv` which contains only sound paths.
 
 ## Example
-You find the Priest class's spell ability "Inner Focus" irritating. The primary sound that is looped for this spell can be found by searching for "Sounds" under [Inner Fire on Wowhead](https://www.wowhead.com/wotlk/spell=14751/inner-focus#sounds). It is called "PreCastMageLow". Now confirm that "PreCastMageLow" is indeed in one of the sound files in this repository - "wow-sounds-wotlk-3.3.5a-Spells.csv" being an obvious choice to check first - by typing it in the file's searchbox. And there you have it,
+You find the Priest class's spell ability "Inner Focus" irritating. The primary sound that is looped for this spell can be found by searching for "Sounds" under [Inner Fire on Wowhead](https://www.wowhead.com/wotlk/spell=14751/inner-focus#sounds). It is called "PreCastMageLow". Now confirm that "PreCastMageLow" is indeed in one of the sound files in this repository - with [wow-sounds-wotlk-3.3.5a-Spells.csv](https://github.com/fondlez/wow-sounds/blob/main/wotlk/wow-sounds-wotlk-3.3.5a-Spells.csv) being an obvious choice to check first - by typing it in the file's searchbox. And there you have it,
 
 *Sound\Spells\PreCastMageLow.wav*
 
