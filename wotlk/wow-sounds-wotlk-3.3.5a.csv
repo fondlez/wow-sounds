@@ -7368,7 +7368,6 @@ Sound\Creature\GnomeSpiderTank02\GnomeSpiderTank02Attack_NoGun3.wav
 Sound\Creature\GnomeSpiderTank02\GnomeSpiderTank02Attack_NoGun4.wav
 Sound\Creature\GnomeSpiderTank02\GnomeSpiderTank02Death.wav
 sound\creature\GnomeSpiderTank02\GnomeSpiderTank02WoundCrit.wav
-Sound\Creature\GnomeSpiderTank02\GnomeSpiderTank02WoundCrit.wav
 Sound\Creature\GnomeSpiderTank\GnomeSpiderTankAggro.wav
 Sound\Creature\GnomeSpiderTank\GnomeSpiderTankAttackA.wav
 Sound\Creature\GnomeSpiderTank\GnomeSpiderTankAttackB.wav
@@ -7501,7 +7500,6 @@ Sound\Creature\Goblin\GoblinWoundC.wav
 Sound\Creature\Goblin\GoblinWoundCrit.wav
 Sound\Creature\Goblin_Cannon\GoblinCannon_Loop.wav
 sound\creature\Goblin_Cannon\Goblin_CannonDeath.wav
-Sound\Creature\Goblin_Cannon\Goblin_CannonDeath.wav
 Sound\Creature\GolemIron\GolemCanonIron_Aggro_01.wav
 Sound\Creature\GolemIron\GolemCanonIron_Attack_01.wav
 Sound\Creature\GolemIron\GolemCanonIron_Attack_02.wav
@@ -14387,11 +14385,8 @@ Sound\Creature\SylvanasWindrunner\Sylvanas_AttackMedium02.wav
 Sound\Creature\SylvanasWindrunner\Sylvanas_AttackMedium03.wav
 Sound\Creature\SylvanasWindrunner\Sylvanas_Death01.wav
 Sound\CREATURE\SylvanasWindrunner\Sylvanas_WoundCritical01.wav
-Sound\Creature\SylvanasWindrunner\Sylvanas_WoundCritical01.wav
 Sound\CREATURE\SylvanasWindrunner\Sylvanas_WoundCritical02.wav
-Sound\Creature\SylvanasWindrunner\Sylvanas_WoundCritical02.wav
 Sound\CREATURE\SylvanasWindrunner\Sylvanas_WoundCritical03.wav
-Sound\Creature\SylvanasWindrunner\Sylvanas_WoundCritical03.wav
 Sound\Creature\SylvanasWindrunner\Sylvanas_WoundHeavy01.wav
 Sound\Creature\SylvanasWindrunner\Sylvanas_WoundHeavy02.wav
 Sound\Creature\SylvanasWindrunner\Sylvanas_WoundHeavy03.wav
